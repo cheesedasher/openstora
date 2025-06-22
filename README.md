@@ -18,6 +18,8 @@ The Information in this wiki is not only for **Netgear Stora**. It's useful for 
 
 Open `http://<StoraIP>/?local=1`
 
+Web Interface requires flash. Install a flash pluggin like Ruffle 'Flash emulator'
+
 ### Why choose the Stora?
 
 Stora is sold as a cheap home NAS, with mixed reviews. What makes it interesting to us is that the hardware is one of the best in its price range (1Ghz, 2 drive bays etc.) and because it runs (open source) Red Hat Linux; with some time and this wiki you can fix some of these limitations and bugs, and make it do a lot of things that it can't do "out of the box".
